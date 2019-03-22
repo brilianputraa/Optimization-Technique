@@ -1,2 +1,2 @@
 # Optimization-Technique
-_Starter pack of operation research of optimization technique code in MATLAB_
+_Starter pack of operation research or optimization technique code in MATLAB_
