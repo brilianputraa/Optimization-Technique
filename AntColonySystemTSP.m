@@ -101,7 +101,7 @@ phe=phe-diag(diag(phe));
 localiter=[];
 globalbest=[];
 % cost=[0 25 20 30 15 18; 22 0 15 21 27 12; 20 16 0 32 10 21; 27 23 30 0 18 35; 15 25 12 20 0 24; 19 14 19 33 22 0];
-%cost soal latihan
+%cost dari perjalanan bisa diganti sendiri di matriks cost
 cost=[0 4 6.5 5 7.5 8.5 6; 4.5 0 8 5 5 6.5 8; 7 7.5 0 4 6 6 7; 5.5 6 5 0 7 4.5 5; 7 5 6.5 6 0 6 5.5; 9 7 7 5 7 0 9; 6 8.5 8.5 6 6.5 9.5 0;];
 NN=KNN(cost);
 tumpuk=[]; %list node per iterasi
