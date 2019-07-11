@@ -1,5 +1,5 @@
 # Optimization Technique
-_Starter pack of operation research or optimization technique code in MATLAB for completing my Tasks on Optimization Technique Lecture_  
+_Starter pack of operation research or optimization technique code in MATLAB for completing my Tasks on Optimization Technique Lecture and Exploring More About Optimization Technique_  
 
 1.Numerical Analysis
   - [__Steepest Descent (Gradient Descent) Method with GUI MATLAB Visualization__](https://github.com/brilianputraa/Optimization-Technique/blob/master/untitled.m)  
